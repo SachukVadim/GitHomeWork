@@ -7,6 +7,8 @@ from tangent import tangent
 from cosinus import calc_cos
 from cotangens import calc_cot
 
+
+
 # change main file
 def calc():
     while True:

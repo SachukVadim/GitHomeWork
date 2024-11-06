@@ -8,6 +8,7 @@ from cosinus import calc_cos
 from cotangens import calc_cot
 
 
+
 def calc():
     while True:
         print('Калькулятор!\nОберіть дію:\n1 - Додавання\n'

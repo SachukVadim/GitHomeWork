@@ -9,6 +9,9 @@ from cotangens import calc_cot
 
 
 
+
+
+# change main file
 def calc():
     while True:
         print('Калькулятор!\nОберіть дію:\n1 - Додавання\n'
